@@ -1,3 +1,3 @@
-# Go the f*ck out
+# Sweep Testing Project
 
 This me testing Sweep AI
